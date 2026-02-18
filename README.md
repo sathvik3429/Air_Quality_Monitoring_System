@@ -81,28 +81,21 @@ The system updates every 5 seconds.
 
 ## 📸 Project Images
 
-### 🔹 Hardware Setup
-
+### 🔹 Final Setup
 
 ![Hardware Setup](Screenshot%20(13).png)
 
 
 ---
 
-### 🔹 Final Setup
 
-![Hardware Setup](img.jpeg)
-
-
----
 
 ## 🎥 Project Demo Video
 
 ### Option 1: YouTube Video
 
-Upload video to YouTube and add link:
 
-[▶ Watch Demo Video](https://youtube.com/your-video-link)
+[▶ Watch Demo Video](https://youtube.com/shorts/5QXIPkI8tzA?si=OQPFeA3DkwecSuWt)
 
 ---
 
@@ -169,4 +162,4 @@ This Portable Air Monitoring System provides a reliable and cost-effective solut
 Rudrarapu Sathvik
 Jyothishmathi Institute Of Technology and Science
 CSE
-3rd year
+
