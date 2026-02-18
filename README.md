@@ -83,23 +83,16 @@ The system updates every 5 seconds.
 
 ### 🔹 Hardware Setup
 
-Add your hardware image inside an `images` folder.
 
-Example:
+![Hardware Setup](Screenshot%20(13).png)
 
-/images/hardware_setup.jpg
-
-Display it like this:
-
-![Hardware Setup](images/hardware_setup.jpg)
 
 ---
 
-### 🔹 Circuit Diagram
+### 🔹 Final Setup
 
-/images/circuit_diagram.png
+![Hardware Setup](img.jpeg)
 
-![Circuit Diagram](images/circuit_diagram.png)
 
 ---
 
@@ -110,12 +103,6 @@ Display it like this:
 Upload video to YouTube and add link:
 
 [▶ Watch Demo Video](https://youtube.com/your-video-link)
-
----
-
-### Option 2: Add Video Thumbnail
-
-[![Watch Demo](images/demo_thumbnail.png)](https://youtube.com/your-video-link)
 
 ---
 
